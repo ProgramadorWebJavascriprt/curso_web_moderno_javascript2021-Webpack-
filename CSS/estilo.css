@@ -1,0 +1,7 @@
+body{
+    background-color: red;
+    background-image: url(../imgs/índice.jepg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}

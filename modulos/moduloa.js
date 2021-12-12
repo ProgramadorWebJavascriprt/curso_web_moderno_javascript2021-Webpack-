@@ -1,0 +1,1 @@
+const modulob = require('./modulob')
